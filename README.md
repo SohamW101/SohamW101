@@ -6,19 +6,19 @@
 
 🎓 **Undergraduate | Computer Science & Engineering (2nd Year)**  
 🏫 Indian Institute of Technology, Jodhpur  
-📍 Pune, India  
+📍 Pune / Jodhpur, India  
 
 <p align="left">
   <a href="https://github.com/SohamW101">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="32"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/soham-wad-a7044a318">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:wsoham19@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32"/>
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 ## 🧠 About Me
 
-I’m a second-year CSE undergraduate at IIT Jodhpur with a strong interest in **ML and DL**. I enjoy implementing models from scratch, understanding training dynamics, and designing end-to-end ML/DL pipelines.
+I’m a second-year CSE undergraduate at IIT Jodhpur with a strong interest in **machine learning and deep learning**. I enjoy implementing models from scratch, understanding training dynamics, and designing end-to-end ML/DL pipelines.
 
 ---
 
@@ -49,7 +49,6 @@ I’m a second-year CSE undergraduate at IIT Jodhpur with a strong interest in *
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
 ### Web / Backend
