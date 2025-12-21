@@ -14,7 +14,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/soham-wad-a7044a318">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:wsoham19@gmail.com?subject=GitHub%20Contact">
