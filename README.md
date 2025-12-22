@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1628,100:020817&height=200&section=header&text=Soham%20Wad&fontSize=48&fontColor=ffffff&desc=CSE%20%40%20IIT%20Jodhpur&descSize=20&descAlignY=68" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f1e3d,100:0a1628&height=200&section=header&text=Soham%20Wad&fontSize=48&fontColor=ffffff&desc=CSE%20%40%20IIT%20Jodhpur&descSize=20&descAlignY=68" />
 </p>
 
 # 👋 Hi, I’m Soham Wad
