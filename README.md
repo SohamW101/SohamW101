@@ -6,11 +6,11 @@
 
 🎓 **Undergraduate | Computer Science & Engineering (2nd Year)**  
 🏫 Indian Institute of Technology, Jodhpur  
-📍 Pune / Jodhpur, India  
+📍 Pune, India  
 
 <p align="left">
   <a href="https://github.com/SohamW101">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/soham-wad-a7044a318">
@@ -26,7 +26,7 @@
 
 ## 🧠 About Me
 
-I’m a second-year CSE undergraduate at IIT Jodhpur with a strong interest in **machine learning and deep learning**. I enjoy implementing models from scratch, understanding training dynamics, and designing end-to-end ML/DL pipelines.
+I’m a second-year CSE undergraduate at IIT Jodhpur with a keen interest in software development and artificial intelligence. I enjoy building systems from scratch, and developing robust end-to-end systems. I look forward to making open-source contributions in the upcoming days.
 
 ---
 
@@ -53,7 +53,7 @@ I’m a second-year CSE undergraduate at IIT Jodhpur with a strong interest in *
 
 ### Web / Backend
 <p align="left">
-  <img src="https://cdn.simpleicons.org/flask/ffffff" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
@@ -63,6 +63,8 @@ I’m a second-year CSE undergraduate at IIT Jodhpur with a strong interest in *
 ## 📈 GitHub Stats
 
 ![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohamW101&show_icons=true&theme=radical)
+
+### <u>[My repositories](https://github.com/SohamW101?tab=repositories)</u>
 
 ---
 
