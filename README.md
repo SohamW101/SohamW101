@@ -64,7 +64,7 @@ I’m a second-year CSE undergraduate at IIT Jodhpur with a keen interest in sof
 
 ![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohamW101&show_icons=true&theme=radical)
 
-### <u>[My repositories](https://github.com/SohamW101?tab=repositories)</u>
+### **[📂 Click for Repositories](https://github.com/SohamW101?tab=repositories)**
 
 ---
 
