@@ -26,7 +26,15 @@
 
 ## 🧠 About Me
 
-I’m a second-year CSE undergraduate at IIT Jodhpur with a keen interest in software development and artificial intelligence. I enjoy building systems from scratch, and developing robust end-to-end systems. I look forward to making open-source contributions in the upcoming days.
+I’m a third-year CSE undergraduate at IIT Jodhpur interested in graph learning, deep learning systems, reinforcement learning, and large-scale AI applications. My recent work includes research on temporal graph inference under partial graph observability settings, reinforcement learning agents, and vision-language pipelines for geospatial analysis.
+
+---
+
+## 🚀 Areas of Interest & Expertise
+
+- Graph Neural Networks (GNNs) and Graph-Learning
+- Vision-Language Models (VLMs), Vision Transformers (ViTs)
+- Classical ML techniques in Supervised and Unsupervised Learning
 
 ---
 
@@ -43,6 +51,18 @@ I’m a second-year CSE undergraduate at IIT Jodhpur with a keen interest in sof
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/networkx/networkx/main/examples/basic/plot_networkx_logo.png" width="40"/>
+</p>
+
+### Web / Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/neo4j/4581C3" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
 
 ### Tools & Systems
@@ -51,17 +71,8 @@ I’m a second-year CSE undergraduate at IIT Jodhpur with a keen interest in sof
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
-### Web / Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-</p>
-
 ---
 
 ### **[📂 Click for My Repositories](https://github.com/SohamW101?tab=repositories)**
 
 ---
-
-*Always curious about how things work under the hood.*
