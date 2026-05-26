@@ -4,7 +4,7 @@
 
 # 👋 Hi, I’m Soham Wad
 
-🎓 **Undergraduate | Computer Science & Engineering (2nd Year)**  
+🎓 **Undergraduate | Computer Science & Engineering (3rd Year)**  
 🏫 Indian Institute of Technology, Jodhpur  
 📍 Pune, India  
 
