@@ -52,7 +52,6 @@ I’m a third-year CSE undergraduate at IIT Jodhpur interested in graph learning
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/networkx/networkx/main/examples/basic/plot_networkx_logo.png" width="40"/>
 </p>
 
 ### Web / Backend
